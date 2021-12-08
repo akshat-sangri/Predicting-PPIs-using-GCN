@@ -3,4 +3,4 @@ This repository contains the Yeast data in the form of edgelist, the code, the p
 
 
 
-![Model Architecture](Model_Architectur.png)
+
